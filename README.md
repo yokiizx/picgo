@@ -1,0 +1,2 @@
+# picgo
+save pictures
